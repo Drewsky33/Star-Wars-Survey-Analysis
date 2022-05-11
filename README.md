@@ -1,9 +1,5 @@
 # Star-Wars-Survey-Analysis
 
-![image.png](attachment:8f7af595-db9a-4175-9ed4-bdd55f4d7c1e.png)![image.png](attachment:3a7c656f-4104-4a62-bf50-423915bdcd56.png)
-
-image from [Pin clipart](https://www.pinclipart.com/pins/star-wars/)
-
 ## Project Overview
 
 What **I** will be doing is cleaning the data and answer the follwing questions:
